@@ -1,0 +1,15 @@
+{
+  "name": "mobile-viewport-scale",
+  "version": "0.0.1",
+  "description": "Sets viewport scale and listens for gestures to reset viewport to allow for zooming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brandon DeWitt",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brandondewitt/mobile-viewport-scale"
+  }
+}
